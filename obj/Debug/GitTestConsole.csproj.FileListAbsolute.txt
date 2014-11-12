@@ -1,1 +1,6 @@
 c:\users\henrikh\documents\visual studio 2013\Projects\GitTestConsole\GitTestConsole\bin\Debug\GitTestConsole.exe.config
+c:\users\henrikh\documents\visual studio 2013\Projects\GitTestConsole\GitTestConsole\bin\Debug\GitTestConsole.exe
+c:\users\henrikh\documents\visual studio 2013\Projects\GitTestConsole\GitTestConsole\bin\Debug\GitTestConsole.pdb
+c:\users\henrikh\documents\visual studio 2013\Projects\GitTestConsole\GitTestConsole\obj\Debug\GitTestConsole.csprojResolveAssemblyReference.cache
+c:\users\henrikh\documents\visual studio 2013\Projects\GitTestConsole\GitTestConsole\obj\Debug\GitTestConsole.exe
+c:\users\henrikh\documents\visual studio 2013\Projects\GitTestConsole\GitTestConsole\obj\Debug\GitTestConsole.pdb
