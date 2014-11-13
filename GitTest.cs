@@ -8,7 +8,9 @@ namespace GitTestConsole
 {
     class GitTest
     {
-        public void m1(){}
+        public void m1(){
+            Console.WriteLine("Dette er en test");
+        }
 
         public void m2(){}
     }
